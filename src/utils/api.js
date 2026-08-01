@@ -1,7 +1,7 @@
 import axios from 'axios';
 import { io } from 'socket.io-client';
 
-const BASE = 'http://localhost:8000';
+const BASE = "https://makeathon-cyber.onrender.com";
 const api = axios.create({ baseURL: BASE + '/api', timeout: 15000 });
 
 let socket = null;
