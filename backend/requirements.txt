@@ -6,5 +6,4 @@ sqlalchemy
 psutil
 python-dotenv
 scapy
-wmi
-pywin32
+
