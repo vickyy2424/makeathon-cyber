@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+python-socketio
+pydantic
+sqlalchemy
+psutil
+python-dotenv
+scapy
+wmi
+pywin32
